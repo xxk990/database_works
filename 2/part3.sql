@@ -1,5 +1,4 @@
 ﻿--Ke XU
---CWID: 10430968
 --This query is about for customer and product, find the monthby which time, a halfof the sales quantities have been purchased.
 
 --sum for each combination of cust, product, and month
