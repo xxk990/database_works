@@ -1,5 +1,4 @@
 //Ke Xu
-//CWID: 10430968
 //part2 is about: for customer and product, to find the average sales before and after each month
 //I use three arrays to store count for every month, sum for every month and avg for every month. And the index of the array will be the month
 //if the the month doesn't have before month, after month or before month ,after month don't have any value it will print null
