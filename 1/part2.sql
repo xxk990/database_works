@@ -1,6 +1,4 @@
 --Ke Xu
---Id: 10430968
---part2
 --This query is about to find the max. quantity for New Jersey, Min. quantity for New York and Min. quantity for Connecticut for each combination between customer and product with corresponding date.
 
 --table to store all the combination between customer and products
