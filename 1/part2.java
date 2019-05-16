@@ -1,6 +1,4 @@
 //Ke Xu
-//ID:10430968
-//part2
 
 //This is the program for part2. Before execute the program you need to modify the username and password to yours.
 //I use a hashMap to store all the information I need. I use the combination of customer and product as a key in the map.
