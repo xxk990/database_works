@@ -1,5 +1,4 @@
 ﻿--Ke Xu
---CWID: 10430968
 --This query is bout for customer and product, show the average sales before and after each month.
 
 
