@@ -1,5 +1,4 @@
 //Ke Xu
-//CWID: 10430968
 //part1 is about to (1) the customer's average sale of this productfor the state
 //(2) the average sale of the product and the customer but forthe other statesand
 //(3) the customer’s average sale for the given state, but for the other products
