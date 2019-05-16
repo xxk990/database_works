@@ -1,6 +1,3 @@
---Ke Xu
---id: 10430968
---part1
 --This query is about to find the max. quantity and min. quantity for each customer with correspending date and state.
 
 
